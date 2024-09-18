@@ -1,0 +1,14 @@
+/*
+Theme Name: Twenty Twenty-One Child
+Template: twentytwentyone
+*/
+
+/* Example CSS for customizing the menu */
+.primary-menu {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+}
+
+.primary-menu a {
+    color: #fff; /* Link color */
+}
